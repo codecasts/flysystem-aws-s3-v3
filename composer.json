@@ -1,5 +1,5 @@
 {
-    "name": "league/flysystem-aws-s3-v3",
+    "name": "codecasts/flysystem-aws-s3-v3",
     "description": "Flysystem adapter for the AWS S3 SDK v3.x",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.5.0",
         "league/flysystem": "~1.0",
-        "aws/aws-sdk-php": "^3.0.0"
+        "codecasts/aws-sdk-php": "^3.0.0"
     },
     "require-dev": {
         "phpspec/phpspec": "^2.0.0",
